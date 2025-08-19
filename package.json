@@ -2,6 +2,7 @@
   "name": "my-code-editor",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://saktheeswar-max.github.io/my-code-editor",
   "dependencies": {
     "@monaco-editor/react": "^4.7.0",
     "@testing-library/dom": "^10.4.0",
